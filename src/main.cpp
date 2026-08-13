@@ -88,7 +88,7 @@ NTPClient timeClient(ntpUDP, "pool.ntp.org", -10800, 60000);
 ESP8266WebServer server(80);
 ESP8266HTTPUpdateServer httpUpdater;
 
-const char* version = "Despertador_Sardinha";
+const char* version = "Despertador_RobertoCarlos v4";
 
 String weatherApiKey = "";
 int cityId = CITY_ID;
