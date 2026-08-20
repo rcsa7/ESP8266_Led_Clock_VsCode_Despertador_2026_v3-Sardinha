@@ -13,3 +13,5 @@
 .env.*
 credentials.json
 .tools/
+__pycache__/
+*.pyc

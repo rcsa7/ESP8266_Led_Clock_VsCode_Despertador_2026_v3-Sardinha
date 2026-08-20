@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" role="img" aria-labelledby="title desc">
+  <title id="title">Abrir o portal de configuração</title>
+  <desc id="desc">Navegador com o endereço padrão http://192.168.4.1.</desc>
+  <rect width="900" height="420" fill="#f6f3ed"/>
+  <rect x="65" y="55" width="770" height="310" rx="12" fill="#fff" stroke="#d7d0c4" stroke-width="3"/>
+  <rect x="65" y="55" width="770" height="72" rx="12" fill="#27333a"/>
+  <circle cx="99" cy="91" r="8" fill="#ef6b5b"/>
+  <circle cx="125" cy="91" r="8" fill="#e9bf54"/>
+  <circle cx="151" cy="91" r="8" fill="#69b978"/>
+  <rect x="190" y="72" width="610" height="39" rx="6" fill="#fff"/>
+  <text x="215" y="98" font-family="Consolas, monospace" font-size="20" font-weight="700" fill="#17231f">http://192.168.4.1</text>
+  <text x="450" y="184" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#17231f">Portal de configuração Wi-Fi</text>
+  <rect x="278" y="222" width="344" height="64" rx="8" fill="#287a5a"/>
+  <text x="450" y="262" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#fff">CONFIGURE WI-FI</text>
+  <text x="450" y="327" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#586963">Digite o IP na barra de endereços, sem HTTPS.</text>
+</svg>

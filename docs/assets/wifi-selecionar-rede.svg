@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="480" viewBox="0 0 900 480" role="img" aria-labelledby="title desc">
+  <title id="title">Selecionar a rede Wi-Fi da casa</title>
+  <desc id="desc">Formulário do portal para escolher a rede de 2,4 GHz e informar a senha dela.</desc>
+  <rect width="900" height="480" fill="#eef4f7"/>
+  <rect x="190" y="38" width="520" height="404" rx="10" fill="#fff" stroke="#cad8df" stroke-width="2"/>
+  <rect x="190" y="38" width="520" height="74" rx="10" fill="#176b87"/>
+  <text x="450" y="83" text-anchor="middle" font-family="Arial, sans-serif" font-size="27" font-weight="700" fill="#fff">Configurar Wi-Fi</text>
+  <text x="235" y="155" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#22343b">Rede de 2,4 GHz</text>
+  <rect x="235" y="170" width="430" height="55" rx="7" fill="#f8fbfc" stroke="#7f9aa5" stroke-width="2"/>
+  <text x="256" y="204" font-family="Arial, sans-serif" font-size="20" fill="#22343b">WiFi-da-Casa</text>
+  <path d="M630 192 l12 12 12-12" fill="none" stroke="#176b87" stroke-width="3"/>
+  <text x="235" y="266" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#22343b">Senha da rede da casa</text>
+  <rect x="235" y="281" width="430" height="55" rx="7" fill="#f8fbfc" stroke="#7f9aa5" stroke-width="2"/>
+  <text x="256" y="316" font-family="Arial, sans-serif" font-size="24" letter-spacing="3" fill="#22343b">••••••••••••</text>
+  <rect x="235" y="365" width="430" height="53" rx="7" fill="#176b87"/>
+  <text x="450" y="399" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#fff">SALVAR E CONECTAR</text>
+</svg>
